@@ -59,6 +59,9 @@ hr.hr-case:after {
 hr.hr-comment:after {
   content: "\f075";
 }
+hr.hr-cloud:after {
+  content: "\f0c2";
+}
 hr.hr-light {
   border-color: white;
 }
