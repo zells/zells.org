@@ -254,14 +254,15 @@ section.success a.active {
 .floating-label-form-group textarea {
   z-index: 1;
   position: relative;
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 10pt;
+  padding-left: 10pt;
   border: none;
   border-radius: 0;
   font-size: 1.5em;
   background: none;
   box-shadow: none !important;
   resize: none;
+  background-color: rgba(255,255,255,.5);
 }
 .floating-label-form-group label {
   display: block;
